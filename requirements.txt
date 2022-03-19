@@ -39,7 +39,6 @@ MarkupSafe==2.0.1
 murmurhash==1.0.6
 mysql-connector-python==8.0.21
 nltk==3.6.7
-numpy==1.22.0
 oauthlib==3.1.1
 packaging==21.3
 pandas==1.3.5
@@ -75,7 +74,6 @@ thinc==8.0.13
 threadpoolctl==3.0.0
 tqdm==4.62.3
 typer==0.4.0
-typing_extensions==4.0.1
 urllib3==1.26.6
 visitor==0.1.3
 wasabi==0.9.0
